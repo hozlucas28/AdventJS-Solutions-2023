@@ -28,27 +28,14 @@
 <h2>
     Challenges
 </h2>
-<p>
-    <table align="center">
-        <tr>
-            <th>#</th>
-            <th>Challenge</th>
-            <th>Difficulty</th>
-            <th>Description</th>
-        <tr>
-        <tr>
-            <td>01</td>
-            <td>Find the first ID number that has been repeated</td>
-            <td>🟢</td>
-            <td><a href="./src/01-challenge/README.md">Show</a></td>
-        <tr>
-        <tr>
-            <td>02</td>
-            <td>Return a list of craftable gifts</td>
-            <td>🟢</td>
-            <td><a href="./src/02-challenge/README.md">Show</a></td>
-        <tr>
-    </table>
+
+<p align="center">
+
+|  #  | Challenge                                       | Difficulty |        Description         |
+| :-: | ----------------------------------------------- | :--------: | :------------------------: |
+| 01  | Find the first ID number that has been repeated |     🟢     | [Show](./src/01-challenge) |
+| 02  | Return a list of craftable gifts                |     🟢     | [Show](./src/02-challenge) |
+
 </p>
 
 <h2>
