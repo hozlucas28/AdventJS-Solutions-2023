@@ -29,14 +29,10 @@
     Challenges
 </h2>
 
-<p align="center">
-
 |  #  | Challenge                                       | Difficulty |        Description         |
 | :-: | ----------------------------------------------- | :--------: | :------------------------: |
 | 01  | Find the first ID number that has been repeated |     🟢     | [Show](./src/01-challenge) |
 | 02  | Return a list of craftable gifts                |     🟢     | [Show](./src/02-challenge) |
-
-</p>
 
 <h2>
     License
