@@ -29,10 +29,11 @@
     Challenges
 </h2>
 
-|  #  | Challenge                                       | Difficulty |        Description         |
-| :-: | ----------------------------------------------- | :--------: | :------------------------: |
-| 01  | Find the first ID number that has been repeated |     🟢     | [Show](./src/01-challenge) |
-| 02  | Return a list of craftable gifts                |     🟢     | [Show](./src/02-challenge) |
+|  #  | Challenge                                                                             | Difficulty |        Description         |
+| :-: | ------------------------------------------------------------------------------------- | :--------: | :------------------------: |
+| 01  | Find the first ID number that has been repeated                                       |     🟢     | [Show](./src/01-challenge) |
+| 02  | Return a list of craftable gifts                                                      |     🟢     | [Show](./src/02-challenge) |
+| 02  | Return the first extra step that has been added or removed in the manufacturing chain |     🟢     | [Show](./src/03-challenge) |
 
 <h2>
     License
