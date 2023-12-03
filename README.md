@@ -22,7 +22,7 @@
     Summary
 </h2>
 <p>
-    This repository serves as a housing solutions to programming challenges of <a href="https://adventjs.dev/es" target="_blank">AdventJS<a>. AdventJS, a project developed by <a href="https://www.linkedin.com/in/midudev/" target="_blank">Midudev</a>, offers developers a platform to improve their skills in JavaScript or TypeScript through a series of daily challenges spanning 25 days. The challenge begins on December 1st and culminates on December 25th.
+    This repository serves as a housing solutions to programming challenges of <a href="https://adventjs.dev/es" target="_blank">AdventJS<a>. AdventJS, a project developed by <a href="https://www.linkedin.com/in/midudev/" target="_blank">Midudev</a>, offers a platform for developers to improve JavaScript or TypeScript skills, through a series of daily challenges spanning 25 days. The challenge begins on December 1st and culminates on December 25th.
 </p>
 
 <h2>
