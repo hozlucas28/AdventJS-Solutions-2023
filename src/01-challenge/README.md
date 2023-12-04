@@ -27,6 +27,6 @@ console.log(firstRepeatedId3) // 5
 
 **Watch out!** The elves say this is a Google technical test.
 
-## Earned score
+## Points earned
 
 ![220 points](../../.github/01-challenge-score.png)

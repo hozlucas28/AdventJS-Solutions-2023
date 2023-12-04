@@ -26,6 +26,6 @@ Please, keep in mind:
 - The modification can occur anywhere in the string.
 - The original steps could be empty
 
-## Earned score
+## Points earned
 
 ![360 points](../../.github/03-challenge-score.png)
