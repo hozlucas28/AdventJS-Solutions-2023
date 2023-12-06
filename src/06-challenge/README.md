@@ -4,9 +4,9 @@ The elves are cataloging Santa's reindeer 🦌 based on the distance they can tr
 
 For this, they have a text string `movements` where each character represents the direction of the reindeer's movement:
 
-- \> = Moves to the right
-- \< = Moves to the left
-- \* = Can move forward or backward
+- `>` = Moves to the right
+- `<` = Moves to the left
+- `*` = Can move forward or backward
 
 For example, if the movement is `>>*<`, it goes to the right twice, then it can go either left or right (whichever maximizes the final traveled distance) and then left.
 
