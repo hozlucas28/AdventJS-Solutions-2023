@@ -36,6 +36,7 @@
 | 03  | Return the first extra step that has been added or removed in the manufacturing chain    |     🟢     | [Show](./src/03-challenge) |
 | 04  | Take a string and reverse the characters inside each pair of parentheses and remove them |     🟠     | [Show](./src/04-challenge) |
 | 05  | Return an array simulating a sled movement                                               |     🟠     | [Show](./src/05-challenge) |
+| 06  | Return the maximum distance that the reindeer can travel in any direction                |     🟢     | [Show](./src/06-challenge) |
 
 <h2>
     License
