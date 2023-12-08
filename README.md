@@ -38,6 +38,7 @@
 | 05  | Return an array simulating a sled movement                                               |     🟠     | [Show](./src/05-challenge) |
 | 06  | Return the maximum distance that the reindeer can travel in any direction                |     🟢     | [Show](./src/06-challenge) |
 | 07  | Generate a drawing of a 3D gift                                                          |     🟢     | [Show](./src/07-challenge) |
+| 08  | Take a string of gifts as an argument and return a string representing the warehouse     |     🟠     | [Show](./src/08-challenge) |
 
 <h2>
     License
