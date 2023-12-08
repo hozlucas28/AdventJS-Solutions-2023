@@ -42,4 +42,4 @@ drawGift(1, '^')
 
 ## Points earned
 
-![XXX points](../../.github/07-challenge-score.png)
+![210 points](../../.github/07-challenge-score.png)
