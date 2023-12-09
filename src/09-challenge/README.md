@@ -22,4 +22,4 @@ adjustLights(['🔴', '🔴', '🔴'])
 
 ## Points earned
 
-![XXX points](../../.github/09-challenge-score.png)
+![360 points](../../.github/09-challenge-score.png)
