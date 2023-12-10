@@ -40,6 +40,7 @@
 | 07  | Generate a drawing of a 3D gift                                                          |     🟢     | [Show](./src/07-challenge) |
 | 08  | Take a string of gifts as an argument and return a string representing the warehouse     |     🟠     | [Show](./src/08-challenge) |
 | 09  | Return the minimum number of lights that need to be changed for the colors to alternate  |     🟢     | [Show](./src/09-challenge) |
+| 10  | Create a customized Christmas tree                                                       |     🟢     | [Show](./src/10-challenge) |
 
 <h2>
     License
