@@ -42,6 +42,7 @@
 | 09  | Return the minimum number of lights that need to be changed for the colors to alternate  |     🟢     | [Show](./src/09-challenge) |
 | 10  | Create a customized Christmas tree                                                       |     🟢     | [Show](./src/10-challenge) |
 | 11  | Return indexes of a palindrome word                                                      |     🟠     | [Show](./src/11-challenge) |
+| 12  | Detect if one letter is a copy of another                                                |     🟠     | [Show](./src/12-challenge) |
 
 <h2>
     License
