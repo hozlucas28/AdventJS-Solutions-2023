@@ -43,6 +43,7 @@
 | 10  | Create a customized Christmas tree                                                       |     🟢     | [Show](./src/10-challenge) |
 | 11  | Return indexes of a palindrome word                                                      |     🟠     | [Show](./src/11-challenge) |
 | 12  | Detect if one letter is a copy of another                                                |     🟠     | [Show](./src/12-challenge) |
+| 13  | Return the time lack or left in order to finish the deliveries                           |     🟢     | [Show](./src/13-challenge) |
 
 <h2>
     License
