@@ -44,6 +44,7 @@
 | 11  | Return indexes of a palindrome word                                                      |     🟠     | [Show](./src/11-challenge) |
 | 12  | Detect if one letter is a copy of another                                                |     🟠     | [Show](./src/12-challenge) |
 | 13  | Return the time lack or left in order to finish the deliveries                           |     🟢     | [Show](./src/13-challenge) |
+| 14  | Determine the maximum number of gifts Santa can deliver in one night                     |     🟠     | [Show](./src/14-challenge) |
 
 <h2>
     License
