@@ -8,6 +8,7 @@
 
 <p align="center">
     <a href="#----summary">Summary</a> •
+    <a href="#----installation">Installation</a> •
     <a href="#----challenges">Challenges</a> •
     <a href="#----license">License</a> •
     <a href="#----acknowledgments">Acknowledgments</a> •
@@ -26,28 +27,41 @@
 </p>
 
 <h2>
+    Installation
+</h2>
+<ol>
+    <li>Clone the repository</li>
+    <li>Install the latest version of <a href="https://nodejs.org/es/" target="_blank">Node.js<a></li>
+    <li>Navigate to the directory where you cloned the repository with your favorite CLI</li>
+    <li>Run <code>npm install</code> in your CLI to install all necessary packages</li>
+    <li>Finally, run <code>npm test</code> in your CLI to execute all challenges/tests</li>
+</ol>
+
+> **Note:** If you want to run a specific challenge/test, execute `npm run test:challenge<number>`.
+
+<h2>
     Challenges
 </h2>
 
-|        #         | Challenge                                                                                | Difficulty | Points earned |        Description         |
-| :--------------: | ---------------------------------------------------------------------------------------- | :--------: | :-----------: | :------------------------: |
-|        01        | Find the first ID number that has been repeated                                          |     🟢     |    **220**    | [Show](./src/01-challenge) |
-|        02        | Return a list of craftable gifts                                                         |     🟢     |    **280**    | [Show](./src/02-challenge) |
-|        03        | Return the first extra step that has been added or removed in the manufacturing chain    |     🟢     |    **360**    | [Show](./src/03-challenge) |
-|        04        | Take a string and reverse the characters inside each pair of parentheses and remove them |     🟠     |    **270**    | [Show](./src/04-challenge) |
-|        05        | Return an array simulating a sled movement                                               |     🟠     |    **160**    | [Show](./src/05-challenge) |
-|        06        | Return the maximum distance that the reindeer can travel in any direction                |     🟢     |    **290**    | [Show](./src/06-challenge) |
-|        07        | Generate a drawing of a 3D gift                                                          |     🟢     |    **210**    | [Show](./src/07-challenge) |
-|        08        | Take a string of gifts as an argument and return a string representing the warehouse     |     🟠     |    **250**    | [Show](./src/08-challenge) |
-|        09        | Return the minimum number of lights that need to be changed for the colors to alternate  |     🟢     |    **360**    | [Show](./src/09-challenge) |
-|        10        | Create a customized Christmas tree                                                       |     🟢     |    **250**    | [Show](./src/10-challenge) |
-|        11        | Return indexes of a palindrome word                                                      |     🟠     |    **25**     | [Show](./src/11-challenge) |
-|        12        | Detect if one letter is a copy of another                                                |     🟠     |    **210**    | [Show](./src/12-challenge) |
-|        13        | Return the time lack or left in order to finish the deliveries                           |     🟢     |    **230**    | [Show](./src/13-challenge) |
-|        14        | Determine the maximum number of gifts Santa can deliver in one night                     |     🟠     |    **290**    | [Show](./src/14-challenge) |
-|        15        | Given a warehouse and the movements, return an array with the robot's final position     |     🟠     |    **40**     | [Show](./src/15-challenge) |
-|        16        | Transform an array into an object                                                        |     🟢     |    **160**    | [Show](./src/16-challenge) |
-| **Total Points** |                                                                                          |   **/**    |   **3605**    |           **/**            |
+|     #     | Challenge                                                                                | Difficulty | Points earned |        Description         |
+| :-------: | ---------------------------------------------------------------------------------------- | :--------: | :-----------: | :------------------------: |
+|    01     | Find the first ID number that has been repeated                                          |     🟢     |    **220**    | [Show](./src/01-challenge) |
+|    02     | Return a list of craftable gifts                                                         |     🟢     |    **280**    | [Show](./src/02-challenge) |
+|    03     | Return the first extra step that has been added or removed in the manufacturing chain    |     🟢     |    **360**    | [Show](./src/03-challenge) |
+|    04     | Take a string and reverse the characters inside each pair of parentheses and remove them |     🟠     |    **270**    | [Show](./src/04-challenge) |
+|    05     | Return an array simulating a sled movement                                               |     🟠     |    **160**    | [Show](./src/05-challenge) |
+|    06     | Return the maximum distance that the reindeer can travel in any direction                |     🟢     |    **290**    | [Show](./src/06-challenge) |
+|    07     | Generate a drawing of a 3D gift                                                          |     🟢     |    **210**    | [Show](./src/07-challenge) |
+|    08     | Take a string of gifts as an argument and return a string representing the warehouse     |     🟠     |    **250**    | [Show](./src/08-challenge) |
+|    09     | Return the minimum number of lights that need to be changed for the colors to alternate  |     🟢     |    **360**    | [Show](./src/09-challenge) |
+|    10     | Create a customized Christmas tree                                                       |     🟢     |    **250**    | [Show](./src/10-challenge) |
+|    11     | Return indexes of a palindrome word                                                      |     🟠     |    **25**     | [Show](./src/11-challenge) |
+|    12     | Detect if one letter is a copy of another                                                |     🟠     |    **210**    | [Show](./src/12-challenge) |
+|    13     | Return the time lack or left in order to finish the deliveries                           |     🟢     |    **230**    | [Show](./src/13-challenge) |
+|    14     | Determine the maximum number of gifts Santa can deliver in one night                     |     🟠     |    **290**    | [Show](./src/14-challenge) |
+|    15     | Given a warehouse and the movements, return an array with the robot's final position     |     🟠     |    **40**     | [Show](./src/15-challenge) |
+|    16     | Transform an array into an object                                                        |     🟢     |    **160**    | [Show](./src/16-challenge) |
+| **Total** |                                                                                          |   **/**    |   **3605**    |           **/**            |
 
 <h2>
     License
