@@ -61,7 +61,10 @@
 |    14     | Determine the maximum number of gifts Santa can deliver in one night                     |     🟠     |    **290**    | [Show](./src/14-challenge) |
 |    15     | Given a warehouse and the movements, return an array with the robot's final position     |     🟠     |    **40**     | [Show](./src/15-challenge) |
 |    16     | Transform an array into an object                                                        |     🟢     |    **160**    | [Show](./src/16-challenge) |
-| **Total** |                                                                                          |   **/**    |   **3605**    |           **/**            |
+|    17     | Merge overlapping intervals and returns an array of sorted intervals                     |     🟢     |    **XXX**    | [Show](./src/17-challenge) |
+|    18     | Given a time, write it as a digital clock of an array of strings arrays                  |     🔴     |    **XXX**    | [Show](./src/18-challenge) |
+|    19     | Return a matrix with the sabotaged toys in the adjacent cells                            |     🟠     |    **XXX**    | [Show](./src/19-challenge) |
+| **Total** |                                                                                          |   **/**    |    **XXX**    |           **/**            |
 
 <h2>
     License

@@ -33,6 +33,9 @@
 		"test:challenge13": "clear && jest --testPathPattern='/src/13-challenge/.*\\.spec\\.ts$'",
 		"test:challenge14": "clear && jest --testPathPattern='/src/14-challenge/.*\\.spec\\.ts$'",
 		"test:challenge15": "clear && jest --testPathPattern='/src/15-challenge/.*\\.spec\\.ts$'",
-		"test:challenge16": "clear && jest --testPathPattern='/src/16-challenge/.*\\.spec\\.ts$'"
+		"test:challenge16": "clear && jest --testPathPattern='/src/16-challenge/.*\\.spec\\.ts$'",
+		"test:challenge17": "clear && jest --testPathPattern='/src/17-challenge/.*\\.spec\\.ts$'",
+		"test:challenge18": "clear && jest --testPathPattern='/src/18-challenge/.*\\.spec\\.ts$'",
+		"test:challenge19": "clear && jest --testPathPattern='/src/19-challenge/.*\\.spec\\.ts$'"
 	}
 }
