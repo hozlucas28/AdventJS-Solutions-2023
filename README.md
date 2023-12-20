@@ -63,7 +63,7 @@
 |    16     | Transform an array into an object                                                        |     🟢     |    **160**    | [Show](./src/16-challenge) |
 |    17     | Merge overlapping intervals and returns an array of sorted intervals                     |     🟢     |    **140**    | [Show](./src/17-challenge) |
 |    18     | Given a time, write it as a digital clock of an array of strings arrays                  |     🔴     |    **XXX**    | [Show](./src/18-challenge) |
-|    19     | Return a matrix with the sabotaged toys in the adjacent cells                            |     🟠     |    **XXX**    | [Show](./src/19-challenge) |
+|    19     | Return a matrix with the sabotaged toys in the adjacent cells                            |     🟠     |    **25**     | [Show](./src/19-challenge) |
 | **Total** |                                                                                          |   **/**    |    **XXX**    |           **/**            |
 
 <h2>
