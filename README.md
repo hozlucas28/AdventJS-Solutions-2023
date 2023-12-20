@@ -62,9 +62,9 @@
 |    15     | Given a warehouse and the movements, return an array with the robot's final position     |     🟠     |    **40**     | [Show](./src/15-challenge) |
 |    16     | Transform an array into an object                                                        |     🟢     |    **160**    | [Show](./src/16-challenge) |
 |    17     | Merge overlapping intervals and returns an array of sorted intervals                     |     🟢     |    **140**    | [Show](./src/17-challenge) |
-|    18     | Given a time, write it as a digital clock of an array of strings arrays                  |     🔴     |    **XXX**    | [Show](./src/18-challenge) |
+|    18     | Given a time, write it as a digital clock of an array of strings arrays                  |     🔴     |    **70**     | [Show](./src/18-challenge) |
 |    19     | Return a matrix with the sabotaged toys in the adjacent cells                            |     🟠     |    **25**     | [Show](./src/19-challenge) |
-| **Total** |                                                                                          |   **/**    |    **XXX**    |           **/**            |
+| **Total** |                                                                                          |   **/**    |   **3840**    |           **/**            |
 
 <h2>
     License
