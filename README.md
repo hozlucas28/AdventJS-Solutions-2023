@@ -65,7 +65,8 @@
 |    18     | Given a time, write it as a digital clock of an array of strings arrays                                                                  |     🔴     |    **70**     | [Show](./src/18-challenge) |
 |    19     | Return a matrix with the sabotaged toys in the adjacent cells                                                                            |     🟠     |    **25**     | [Show](./src/19-challenge) |
 |    20     | Given a matrix of numbers, return another matrix where each element is the average of its original value and the values of its neighbors |     🔴     |    **25**     | [Show](./src/20-challenge) |
-| **Total** |                                                                                                                                          |   **/**    |   **3865**    |           **/**            |
+|    21     | Find the longest segment of the string where the number of 0s and 1s is equal                                                            |     🟠     |    **200**    | [Show](./src/21-challenge) |
+| **Total** |                                                                                                                                          |   **/**    |   **4065**    |           **/**            |
 
 <h2>
     License
