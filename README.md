@@ -66,7 +66,8 @@
 |    19     | Return a matrix with the sabotaged toys in the adjacent cells                                                                            |     🟠     |    **25**     | [Show](./src/19-challenge) |
 |    20     | Given a matrix of numbers, return another matrix where each element is the average of its original value and the values of its neighbors |     🔴     |    **25**     | [Show](./src/20-challenge) |
 |    21     | Find the longest segment of the string where the number of 0s and 1s is equal                                                            |     🟠     |    **200**    | [Show](./src/21-challenge) |
-| **Total** |                                                                                                                                          |   **/**    |   **4065**    |           **/**            |
+|    22     | Translate the Elves language instructions                                                                                                |     🟢     |    **150**    | [Show](./src/22-challenge) |
+| **Total** |                                                                                                                                          |   **/**    |   **4215**    |           **/**            |
 
 <h2>
     License
