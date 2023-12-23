@@ -67,7 +67,8 @@
 |    20     | Given a matrix of numbers, return another matrix where each element is the average of its original value and the values of its neighbors |     🔴     |    **25**     | [Show](./src/20-challenge) |
 |    21     | Find the longest segment of the string where the number of 0s and 1s is equal                                                            |     🟠     |    **200**    | [Show](./src/21-challenge) |
 |    22     | Translate the Elves language instructions                                                                                                |     🟢     |    **150**    | [Show](./src/22-challenge) |
-| **Total** |                                                                                                                                          |   **/**    |   **4215**    |           **/**            |
+|    23     | Group dishes by ingredients                                                                                                              |     🟢     |    **130**    | [Show](./src/23-challenge) |
+| **Total** |                                                                                                                                          |   **/**    |   **4345**    |           **/**            |
 
 <h2>
     License
