@@ -69,7 +69,8 @@
 |    22     | Translate the Elves language instructions                                                                                                |     🟢     |    **150**    | [Show](./src/22-challenge) |
 |    23     | Group dishes by ingredients                                                                                                              |     🟢     |    **130**    | [Show](./src/23-challenge) |
 |    24     | Return all the possible sequences of jumps, sorted from least to most                                                                    |     🟠     |    **30**     | [Show](./src/24-challenge) |
-| **Total** |                                                                                                                                          |   **/**    |   **4375**    |           **/**            |
+|    25     | Return the number of moves that Santa must do to deliver all the gifts                                                                   |     🟠     |    **110**    | [Show](./src/25-challenge) |
+| **Total** |                                                                                                                                          |   **/**    |   **4485**    |           **/**            |
 
 <h2>
     License
