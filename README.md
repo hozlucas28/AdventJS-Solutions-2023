@@ -10,6 +10,7 @@
     <a href="#----summary">Summary</a> •
     <a href="#----installation">Installation</a> •
     <a href="#----challenges">Challenges</a> •
+    <a href="#----related">Related</a> •
     <a href="#----license">License</a> •
     <a href="#----acknowledgments">Acknowledgments</a> •
     <a href="#----contact">Contact</a>
@@ -71,6 +72,17 @@
 |    24     | Return all the possible sequences of jumps, sorted from least to most                                                                    |     🟠     |    **30**     | [Show](./src/24-challenge) |
 |    25     | Return the number of moves that Santa must do to deliver all the gifts                                                                   |     🟠     |    **110**    | [Show](./src/25-challenge) |
 | **Total** |                                                                                                                                          |   **/**    |   **4485**    |           **/**            |
+
+<h2>
+    Related
+</h2>
+<p>
+    <ul>
+        <li>
+            <a href="https://github.com/hozlucas28/AdventJS-Solutions-2024" target="_blank">Solutions of the AdventJS - 2024</a>
+        </li>
+    </ul>
+</p>
 
 <h2>
     License
