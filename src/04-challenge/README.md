@@ -27,6 +27,10 @@ Notes:
 - There should not be any parentheses left in the final message.
 - The maximum nesting level is 2.
 
+### Solutions
+
+- [TypeScript](./solution.ts)
+
 ## Points earned
 
 ![270 points](../../.github/04-challenge-score.png)

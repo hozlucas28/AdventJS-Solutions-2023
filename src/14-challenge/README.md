@@ -13,6 +13,10 @@ maxGifts([4, 1, 1, 4, 2, 1]) // 9 (4 + 4 + 1)
 maxGifts([1, 3, 1, 3, 100]) // 103 (3 + 100)
 ```
 
+### Solutions
+
+- [TypeScript](./solution.ts)
+
 ## Points earned
 
 ![XXX points](../../.github/14-challenge-score.png)

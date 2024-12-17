@@ -32,6 +32,10 @@ console.log(result3) // -> 5
 
 Keep in mind that it doesn't matter whether it is to the left or right, the distance is **the absolute value of the maximum distance traveled at the end of the movements**.
 
+### Solutions
+
+- [TypeScript](./solution.ts)
+
 ## Points earned
 
 ![290 points](../../.github/06-challenge-score.png)

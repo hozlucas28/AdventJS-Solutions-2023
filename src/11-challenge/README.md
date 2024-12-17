@@ -23,6 +23,10 @@ getIndexsForPalindrome('caababa') // null
 
 If the palindrome can be formed with different swaps, **always return the first one found.**
 
+### Solutions
+
+- [TypeScript](./solution.ts)
+
 ## Points earned
 
 ![25 points](../../.github/11-challenge-score.png)

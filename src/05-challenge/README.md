@@ -42,6 +42,10 @@ Take into account that **if the sled is in the same position as a barrier**, the
 
 The elves were **inspired by this [Code Wars challenge](https://www.codewars.com/kata/5d0ae91acac0a50232e8a547/javascript)**.
 
+### Solutions
+
+- [TypeScript](./solution.ts)
+
 ## Points earned
 
 ![160 points](../../.github/05-challenge-score.png)

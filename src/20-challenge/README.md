@@ -68,6 +68,10 @@ distributeGifts(input)
 - The edges of the matrix have fewer possible neighbors than the rest of the positions.
 - They are always positive integers.
 
+### Solutions
+
+- [TypeScript](./solution.ts)
+
 ## Points earned
 
 ![25 points](../../.github/20-challenge-score.png)

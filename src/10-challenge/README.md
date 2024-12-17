@@ -33,6 +33,10 @@ Note:
 - Create spaces only to the left of each line of the tree. Do not leave blank spaces to the right.
 - The ornaments have a white space between them for separation.
 
+### Solutions
+
+- [TypeScript](./solution.ts)
+
 ## Points earned
 
 ![250 points](../../.github/10-challenge-score.png)

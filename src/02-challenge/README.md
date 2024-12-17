@@ -23,6 +23,10 @@ const materials = 'psli'
 manufacture(gifts, materials) // []
 ```
 
+### Solutions
+
+- [TypeScript](./solution.ts)
+
 ## Points earned
 
 ![280 points](../../.github/02-challenge-score.png)

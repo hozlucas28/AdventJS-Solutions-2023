@@ -36,6 +36,10 @@ Keep in mind that...
 - The board can be of any size.
 - The numbers are strings.
 
+### Solutions
+
+- [TypeScript](./solution.ts)
+
 ## Points earned
 
 ![25 points](../../.github/19-challenge-score.png)

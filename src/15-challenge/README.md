@@ -41,6 +41,10 @@ Keep in mind that the `store` is **an array that can have a number of rows rangi
 
 Also note that the robot **might end up in its initial position** if it can't move or if it's going around in circles.
 
+### Solutions
+
+- [TypeScript](./solution.ts)
+
 ## Points earned
 
 ![40 points](../../.github/15-challenge-score.png)

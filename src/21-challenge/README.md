@@ -23,6 +23,10 @@ Keep in mind that if there is more than one balanced pattern, **you should retur
 
 They say that if they find the pattern, they will be able to send a message back to Mars 🚀. It seems that they have to send it to https://mars.codes.
 
+### Solutions
+
+- [TypeScript](./solution.ts)
+
 ## Points earned
 
 ![200 points](../../.github/21-challenge-score.png)

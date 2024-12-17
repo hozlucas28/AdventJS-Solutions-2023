@@ -30,6 +30,10 @@ You can assume that the **first element of each interval is always less than or 
 
 The hour numbers can go up to the figure `9999`.
 
+### Solutions
+
+- [TypeScript](./solution.ts)
+
 ## Points earned
 
 ![140 points](../../.github/17-challenge-score.png)

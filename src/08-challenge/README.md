@@ -26,6 +26,10 @@ console.log(result1)
   11b: 11 gifts type 'b' would be packed in 1 box and 1 gift would be left, resulting in 1 loose box {b} and a bag with 1 gift (b)
 ```
 
+### Solutions
+
+- [TypeScript](./solution.ts)
+
 ## Points earned
 
 ![250 points](../../.github/08-challenge-score.png)

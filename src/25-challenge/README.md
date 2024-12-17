@@ -41,6 +41,10 @@ Take into account that:
 - The map will always have an initial position for Santa Claus.
 - The numbers of the kids never repeat.
 
+### Solutions
+
+- [TypeScript](./solution.ts)
+
 ## Points earned
 
 ![110 points](../../.github/25-challenge-score.png)

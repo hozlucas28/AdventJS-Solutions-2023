@@ -41,6 +41,10 @@ Keep in mind that:
 - The names of the ingredients for a given dish are different from each other.
 - If there are no repeated ingredients, we return an empty _array_.
 
+### Solutions
+
+- [TypeScript](./solution.ts)
+
 ## Points earned
 
 ![130 points](../../.github/23-challenge-score.png)

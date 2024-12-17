@@ -14,6 +14,10 @@ calculateTime(['02:00:00', '05:00:00', '00:30:00']) // '00:30:00'
 calculateTime(['00:45:00', '00:45:00', '00:00:30', '00:00:30']) // '-05:29:00'
 ```
 
+### Solutions
+
+- [TypeScript](./solution.ts)
+
 ## Points earned
 
 ![230 points](../../.github/13-challenge-score.png)

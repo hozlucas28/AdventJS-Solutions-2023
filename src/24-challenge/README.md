@@ -38,6 +38,10 @@ getStaircasePaths(5, 2)
 */
 ```
 
+### Solutions
+
+- [TypeScript](./solution.ts)
+
 ## Points earned
 
 ![30 points](../../.github/24-challenge-score.png)

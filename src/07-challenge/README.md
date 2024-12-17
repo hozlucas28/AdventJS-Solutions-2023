@@ -40,6 +40,10 @@ drawGift(1, '^')
 
 - Important: We have been told that **there is always to leave a newline at the end of the drawing.**
 
+### Solutions
+
+- [TypeScript](./solution.ts)
+
 ## Points earned
 
 ![210 points](../../.github/07-challenge-score.png)

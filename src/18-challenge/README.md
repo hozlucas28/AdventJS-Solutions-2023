@@ -24,6 +24,10 @@ To know how to draw each digit, we have been given the following image. As you c
 
 ![Clock reference](../../.github/18-challenge-clock.png)
 
+### Solutions
+
+- [TypeScript](./solution.ts)
+
 ## Points earned
 
 ![70 points](../../.github/18-challenge-score.png)

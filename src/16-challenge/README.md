@@ -50,6 +50,10 @@ The elf on duty who tried to solve the problem before going home, left us some c
 - The root node is at index `0` in the array.
 - There's a relationship between the index of a node and the index of its children. Look for the pattern!
 
+### Solutions
+
+- [TypeScript](./solution.ts)
+
 ## Points earned
 
 ![160 points](../../.github/16-challenge-score.png)

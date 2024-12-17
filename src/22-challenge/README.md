@@ -35,6 +35,10 @@ compile('--¿+++?') // -2
 // - 1 - 1 = -2
 ```
 
+### Solutions
+
+- [TypeScript](./solution.ts)
+
 ## Points earned
 
 ![150 points](../../.github/22-challenge-score.png)

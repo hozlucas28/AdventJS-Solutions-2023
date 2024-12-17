@@ -20,6 +20,10 @@ adjustLights(['🔴', '🔴', '🔴'])
 // -> 1 (you change the second light to 🟢)
 ```
 
+### Solutions
+
+- [TypeScript](./solution.ts)
+
 ## Points earned
 
 ![360 points](../../.github/09-challenge-score.png)

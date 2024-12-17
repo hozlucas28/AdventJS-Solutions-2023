@@ -36,6 +36,10 @@ Therefore `s#+:. c+:++` is a valid copy of `Santa Claus`. And, as you can see, t
 
 _Based on the CodeWars challenge Photocopy decay_
 
+### Solutions
+
+- [TypeScript](./solution.ts)
+
 ## Points earned
 
 ![210 points](../../.github/12-challenge-score.png)
